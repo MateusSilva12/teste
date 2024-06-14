@@ -4,11 +4,11 @@ from sklearn.model_selection import train_test_split
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Diretórios das imagens
+#diretorio onde estão as imagens
 diretorio_chupeta = r"C:\Users\mateu\Downloads\DATASET\DATASET\chupeta"
 diretorio_roendo_unha = r"C:\Users\mateu\Downloads\DATASET\DATASET\roendo_unha"
 diretorio_dedo_na_boca = r"C:\Users\mateu\Downloads\DATASET\DATASET\dedo_na_boca"
-
+#concatenar as imagens
 image_dirs = [diretorio_chupeta, diretorio_roendo_unha, diretorio_dedo_na_boca]
 
 # Passo 1: Carregar e visualizar as imagens
