@@ -1,8 +1,8 @@
 Image Path,ROI,ROI Caption,Image Caption
-C:\Users\mateu\Downloads\DATASET\DATASET\chupeta\img1.png,"235,147,643,555",Face detected in the image,Original image without face detection
-C:\Users\mateu\Downloads\DATASET\DATASET\chupeta\img2.png,"337,87,520,270",Face detected in the image,Original image without face detection
-C:\Users\mateu\Downloads\DATASET\DATASET\roendo_unha\img2.png,"172,81,414,323",Face detected in the image,Original image without face detection
-C:\Users\mateu\Downloads\DATASET\DATASET\roendo_unha\img3.png,"141,105,489,453",Face detected in the image,Original image without face detection
-C:\Users\mateu\Downloads\DATASET\DATASET\dedo_na_boca\img1.png,"113,42,312,241",Face detected in the image,Original image without face detection
-C:\Users\mateu\Downloads\DATASET\DATASET\dedo_na_boca\img2.png,"239,65,395,221",Face detected in the image,Original image without face detection
-C:\Users\mateu\Downloads\DATASET\DATASET\dedo_na_boca\img3.png,"158,32,477,351",Face detected in the image,Original image without face detection
+C:\Users\mateu\Downloads\DATASET\DATASET\chupeta\img1.png,"235,147,643,555",Criança com chupeta rosa,Criança com chupeta rosa;loira;sorrindo"
+C:\Users\mateu\Downloads\DATASET\DATASET\chupeta\img2.png,"337,87,520,270",Criança com chupeta azul,Criança com chupeta azul; apontando para chupeta;com os olhos arregalados"
+C:\Users\mateu\Downloads\DATASET\DATASET\roendo_unha\img2.png,"172,81,414,323",Criança roendo unha,Criança roendo unha;loira;com olhar fixo"
+C:\Users\mateu\Downloads\DATASET\DATASET\roendo_unha\img3.png,"141,105,489,453",Criança roendo unha,Criança roendo unha;blusa azul;olhar fixo"
+C:\Users\mateu\Downloads\DATASET\DATASET\dedo_na_boca\img1.png,"113,42,312,241",Criança com dedo na boca,Criança com dedo na boca;sofa vermelho;olhos castanhos,blusa marrom"
+C:\Users\mateu\Downloads\DATASET\DATASET\dedo_na_boca\img2.png,"239,65,395,221",Criança com dedo na boca,Criança com dedo na boca,em pe;blusa vermelha"
+C:\Users\mateu\Downloads\DATASET\DATASET\dedo_na_boca\img3.png,"158,32,477,351",Criança com dedo na boca,Criança com dedo na boca;cabelo cacheado;blusa vermelha
